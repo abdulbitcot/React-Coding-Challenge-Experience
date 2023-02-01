@@ -20,6 +20,9 @@ Convert the  **HTML** into **REACT JS** then Implement the redux in this project
 
 Link of HTML : **[HTML]**(https://facebook.github.io/react/)
 
+- Add dropdown functionality in sidebar
+- Add toggle functionality in sidebar
+
 You will need to build the following 4 pages with React:
 - "Login" page
 - "Product List" page
