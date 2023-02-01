@@ -13,7 +13,7 @@ Although this is a basic exercise, we'll be looking for simple, well-designed, p
 
 Convert the HTML into REACT JS then Implement the redux in this project and then create Public and Private (Routes / Layout ).
 
-Link of HTML : [HTML] (https://facebook.github.io/react/)
+Link of HTML : [HTML](https://facebook.github.io/react/)
 
 You will need to build the following 4 pages with React:
 - A "Login" page
