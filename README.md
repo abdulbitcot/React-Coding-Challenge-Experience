@@ -36,13 +36,15 @@ You can assume that you do not have to support legacy browsers without features 
 
 ### "Login" Page
 
-In the Login page, you have to show login screen and in that Login screen there are two inputs, one for email and one for password and one button for signin and also add validation for both fields. User can fill these fields with any **Email** and **password**. After submit login form the token will generate statically and saved in `localStorage`.
+- Add validation in email or password field. In the email field, you will have to add email validation
+- User can fill these fields with any **Email** and **password**
+- After submit login form the token will we generated statically and saved in `localStorage`.
+- Once user have loged in than it will be redirect to **Product list** and if token is in `localStorage` than it will not be able to come to login page 
 
-Once user have loged in than it will be redirect to **Product list** and if token is in `localStorage` than it will not be able to come to login page 
-And with the help of static token you can manage public and private routes.
+**Note:** With the help of static token you can manage public and private routes.
 
 
-### "Product List" page
+### "Product List" Page
 
 For this page you will need to fetch this JSON [sample.json](https://raw.githubusercontent.com/abdulbitcot/React-Coding-Challenge-Experience/main/sample.json) feed 
 
@@ -57,7 +59,7 @@ For this page you will need to fetch this JSON [sample.json](https://raw.githubu
 - There is a Button of **Add Product** and When **Click** the page will be redirecte to the **Add Product** page.
 
 
-## Add Product
+### "Add Product" Page
 
 - Add **Tabs** functionality of `general` and `variation`.
 - Add validation of all the required fields.
@@ -66,8 +68,8 @@ For this page you will need to fetch this JSON [sample.json](https://raw.githubu
 - After submitting the product than the product should be add in the product list locally in the reducers and display in product list.
 
 
-## Edit Product
+### "Edit Product" Page
 
-- When will Product be redirected to the **Edit Page** from the product list then  form will be filled by selected  product data. 
-User can Edit Product and Submitted by button and then it will be reflected in the product list.
-Also maintain the validation in edit form. 
+- When Product will be redirected to the **Edit Page** from the product list than **form** will be filled by selected product data. 
+- User can Edit Product and After Submitted, it will be reflected in the product list.
+- Also maintain the validation in edit form.
