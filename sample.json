@@ -1,0 +1,280 @@
+[
+    {
+        "id":"1",
+        "productName":"Blue Jacket",
+        "productImage":"https://upload.wikimedia.org/wikipedia/commons/3/3d/Dress_Shirt_Fitting_on_dummy_Front.JPG",
+        "category":"cloths",
+        "price":"$77.00",
+        "stock":"45",
+        "status":"In stock"
+    },
+    {
+        "id":"2",
+        "productName":"Blue Sneaker",
+        "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdBPrJxVGq8BksyP6u1j67mO1LxMzjUwxQFw&usqp=CAU",
+        "category":"shoes",
+        "price":"$37.00",
+        "stock":"25",
+        "status":"In stock"
+    },
+    {
+        "id":"3",
+        "productName":"Gray Hoodies",
+        "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIUfA2o1Y0fQWyw8tyHnfPwZf3PzLyEicNBA&usqp=CAU",
+        "category":"cloths",
+        "price":"$23.00",
+        "stock":"15",
+        "status":"In stock"
+    },
+    {
+        "id":"4",
+        "productName":"Analog strip Watch",
+        "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHrAKoRWG1HJLoGn8TzoAkvIP_HkCJTAs_TA&usqp=CAU",
+        "category":"accessories",
+        "price":"$37.00",
+        "stock":"85",
+        "status":"In stock"
+    },
+    {
+        "id":"5",
+        "productName":"Women Shirt",
+        "productImage":"https://img.faballey.com/images/Product/TOP04947Z/1.jpg",
+        "category":"cloths",
+        "price":"$56.00",
+        "stock":"3",
+        "status":"Limited stock"
+    },
+    {
+        "id":"6",
+        "productName":"fan",
+        "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwcGgPyiWVBPw1RaD7TptDPJVcMq15eBNnYg&usqp=CAU",
+        "category":"electronics",
+        "price":"$23.00",
+        "stock":"0",
+        "status":"out of stock"
+    },
+    {
+        "id":"7",
+        "productName":"Denim Jeans",
+        "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRk5MlQAG8njzCbgTRnHpzCchiRibUDnoNbw&usqp=CAU",
+        "category":"cloths",
+        "price":"$47.00",
+        "stock":"45",
+        "status":"In stock"
+    },
+    {
+        "id":"8",
+        "productName":"Headphone",
+        "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk0qzZFMH6aO52mvAUkv0Fl7ikrQGUYx8S7w&usqp=CAU",
+        "category":"electronics",
+        "price":"$19.00",
+        "stock":"25",
+        "status":"In stock"
+    },
+    {
+        "id":"9",
+        "productName":"laptop",
+        "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2n5BgGptM3vYVRoTuY-6NE1Bvx_YEyX7hdg&usqp=CAU",
+        "category":"electronics",
+        "price":"$220.00",
+        "stock":"10",
+        "status":"Limited stock "
+    },
+    {
+        "id":"10",
+        "productName":"Raybon Google",
+        "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQewaKjSKvBOYvy8e3BcK1E1o0sZAaHeX8Gw&usqp=CAU",
+        "category":"accessories",
+        "price":"$26.00",
+        "stock":"21",
+        "status":"In stock"
+    },
+    {
+        "id":"11",
+        "productName":"iphone 14",
+        "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVd3yse2dmLNzT1WXm3peJQY-Bgx88oyWJYw&usqp=CAU",
+        "category":"electronics",
+        "price":"$77.00",
+        "stock":"45",
+        "status":"In stock"
+    },
+    {
+        "id":"12",
+        "productName":"Refrigerator",
+        "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ZZni4MlsPOQYoWogI6L1uc7G6rp1ldxm-g&usqp=CAU",
+        "category":"electronics",
+        "price":"$77.00",
+        "stock":"45",
+        "status":"In stock"
+    },
+    {
+        "id":"13",
+        "productName":"Cammera",
+        "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUPQu5YWxH-lS-qoXN5DAHWk11yLrvMtcSEw&usqp=CAU",
+        "category":"electronics",
+        "price":"$77.00",
+        "stock":"45",
+        "status":"In stock"
+    },
+    {
+        "id":"14",
+        "productName":"Cycle",
+        "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpOE8CF8ZK0rN-yAfBtwjBKrpYsQcHVtpO_g&usqp=CAU",
+        "category":"accessories",
+        "price":"$77.00",
+        "stock":"45",
+        "status":"In stock"
+    },
+    {
+        "id":"15",
+        "productName":"Mens Track Pants",
+        "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiOwNou5C7xK-QTgFU571nfxaIN-fZUufFRJo3xVC2HgldN2_ddJ3pD11y_IHMAsrQ--M&usqp=CAU",
+        "category":"cloths",
+        "price":"$77.00",
+        "stock":"45",
+        "status":"In stock"
+    },
+    {
+        "id":"16",
+        "productName":"Cricket Bat",
+        "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEf8hy_B_09PewaRMGWXG5ET8W8ijCveJE2FF93X0xst9YzvVm_hxH-92UJL0YBJZL2TI&usqp=CAU",
+        "category":"accessories",
+        "price":"$23.00",
+        "stock":"45",
+        "status":"In stock"
+    },
+    {
+        "id":"17",
+        "productName":"Ear Buds",
+        "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG1kwoFQQCESpUyn0FytqnKWCzYAU1xom88VXh61n0DPK3kPqzKTZQXNf5ljd8N-0NMe8&usqp=CAU",
+        "category":"electronics",
+        "price":"$21.00",
+        "stock":"40",
+        "status":"In stock"
+    },
+    {
+        "id":"18",
+        "productName":"Guitar",
+        "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-M1rQLo-NRXL3uMi2SDnT-ZGdYkJmUiAgXw&usqp=CAU",
+        "category":"instrument",
+        "price":"$11.00",
+        "stock":"35",
+        "status":"In stock"
+    },
+    {
+        "id":"19",
+        "productName":"Balzer",
+        "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqaeWjDQZtXazlO8NCJtyBCfqOe4IwFjeAZw&usqp=CAU",
+        "category":"cloths",
+        "price":"$23.00",
+        "stock":"45",
+        "status":"In stock"
+    },
+    {
+        "id":"20",
+        "productName":"Computer",
+        "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpRR44VG9m9Y8mxwkOdDqNOZWce6hLQtW-TQ&usqp=CAU",
+        "category":"electronics",
+        "price":"$17.00",
+        "stock":"45",
+        "status":"In stock"
+    },
+    {
+        "id":"21",
+        "productName":"Maggiee",
+        "productImage":"https://rukminim1.flixcart.com/image/416/416/ki3gknk0/noodle/z/l/u/840-maggie-masala-noodles-12-instant-noodles-nestle-original-imafxym3qfnvhksa.jpeg?q=70",
+        "category":"Grocery",
+        "price":"$77.00",
+        "stock":"45",
+        "status":"In stock"
+    },
+    {
+        "id":"22",
+        "productName":"Mens shots",
+        "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1lGbgf3_sWfUBZCjITSGAfCzdcPzEeKbKqg&usqp=CAU",
+        "category":"cloths",
+        "price":"$9.00",
+        "stock":"21",
+        "status":"In stock"
+    },
+    {
+        "id":"23",
+        "productName":"samsung AC",
+        "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQteLnvish69U_avVaG8ak8Pb4DoxXdfbX278sEsik-Eu553BX_po42ULDRTtj5iTuvSlk&usqp=CAU",
+        "category":"electronics",
+        "price":"$160.00",
+        "stock":"0",
+        "status":"out of stock"
+    },
+    {
+        "id":"24",
+        "productName":"pen",
+        "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQMg33iLtdKKMDfgleaz_4moJi3mN1Akyy02i6_tC2y9teTP4DPyzdEuUAiH9xMfDA5Rw&usqp=CAU",
+        "category":"stationary",
+        "price":"$2.00",
+        "stock":"65",
+        "status":"Limited stock "
+    },
+    {
+        "id":"25",
+        "productName":"Coffee",
+        "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOKUQ5tlbIneiudCuZKHbRWSA9f5rNW4fhlQ&usqp=CAU",
+        "category":"food product",
+        "price":"$7.00",
+        "stock":"45",
+        "status":"In stock"
+    },
+    {
+        "id":"26",
+        "productName":"Water Heater",
+        "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPG2xShjUnLH59LjjykylM0rvUY2qBfKzEWQ&usqp=CAU",
+        "category":"electronics",
+        "price":"$27.00",
+        "stock":"26",
+        "status":"In stock"
+    },
+    {
+        "id":"27",
+        "productName":"Office chair",
+        "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmsu0QNjSs7ZUVU9yX9d74--GBZQpvwrjoKN_9rgaCWXmKWx_t0SonkY6vq5EfhuxHCCk&usqp=CAU",
+        "category":"furniture",
+        "price":"$21.00",
+        "stock":"40",
+        "status":"In stock"
+    },
+    {
+        "id":"28",
+        "productName":"One plus 7",
+        "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUowKMcXiXgfkndm3REnRkJ-NQbfZZ-ohzJg&usqp=CAU",
+        "category":"electronics",
+        "price":"$110.00",
+        "stock":"5",
+        "status":"In stock"
+    },
+    {
+        "id":"29",
+        "productName":"Samsung Tab",
+        "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQrwvfWMVmss0mglRIV39LVu3VbpSRs9vN-w&usqp=CAU",
+        "category":"electronics",
+        "price":"$56.00",
+        "stock":"15",
+        "status":"In stock"
+    },
+    {
+        "id":"30",
+        "productName":"Dairy milk",
+        "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoJuuKlR_mM2jbsTciQ9qx4c19IV7b9HUPkQ&usqp=CAU",
+        "category":"chocalates",
+        "price":"$10.00",
+        "stock":"45",
+        "status":"In stock"
+    },{
+        "id":"31",
+        "productName":"saree",
+        "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZQDrxzAIOJUQorkS_zn__QA50Zi6jlKc1HQ&usqp=CAU",
+        "category":"cloths",
+        "price":"$47.00",
+        "stock":"4",
+        "status":"Limited stock "
+    }
+]
