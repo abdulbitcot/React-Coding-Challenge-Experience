@@ -18,7 +18,7 @@ Although this is a basic exercise, we'll be looking for **simple, well-designed,
 
 Convert the  **HTML** into **REACT JS** then Implement the redux in this project and then create Public and Private (Routes / Layout ).
 
-Link of HTML : **[HTML]**(https://facebook.github.io/react/)
+Link of HTML : [**HTML**](https://facebook.github.io/react/)
 
 - Add dropdown functionality in sidebar
 - Add toggle functionality in sidebar
