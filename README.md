@@ -16,7 +16,7 @@ Although this is a basic exercise, we'll be looking for **simple, well-designed,
 
 ## Details
 
-Convert the  **HTML** into **REACT JS** then Implement the redux in this project and then create Public and Private (Routes / Layout ).
+Click [here](https://xd.adobe.com/view/693b1c0d-b7fd-4f1c-b15a-389dafffe240-3c68/) to look at the UX design and Convert the  **HTML** into **REACT JS** then Implement the redux in this project and then create Public and Private (Routes / Layout ).
 
 - Click on [**HTML**](https://github.com/abdulbitcot/React-Coding-Challenge-Experience/raw/main/HTML.zip) to download HTML
 - Add dropdown functionality in sidebar
