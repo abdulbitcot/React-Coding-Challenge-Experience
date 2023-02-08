@@ -18,12 +18,12 @@ Although this is a basic exercise, we'll be looking for **simple, well-designed,
 
 Convert the  **HTML** into **REACT JS** then Implement the redux in this project and then create Public and Private (Routes / Layout ).
 
-Click on [**HTML**](https://github.com/abdulbitcot/React-Coding-Challenge-Experience/raw/main/HTML.zip) to download HTML
-
+- Click on [**HTML**](https://github.com/abdulbitcot/React-Coding-Challenge-Experience/raw/main/HTML.zip) to download HTML
 - Add dropdown functionality in sidebar
 - Add toggle functionality in sidebar
 
-You will need to build the following 4 pages with React:
+You will need to build the following 5 pages with React:
+- "Sign Up" page
 - "Login" page
 - "Product List" page
 - "Add Product" page
@@ -37,15 +37,21 @@ The pages should also be usable on mobile and tablet devices.
 
 You can assume that you do not have to support legacy browsers without features such as `fetch` or `flexbox`.
 
+### "Sign Up" Page
+
+- Add validation in all fields
+- When user fill all the fields and click on **Sign up** button then data should be save in your `localStorage` and `reducer` then redirect to login page
+
+**Note:** User can create multiple users
+
 ### "Login" Page
 
 - Add validation in email or password field. In the email field, you will have to add email validation
-- User can fill these fields with any **Email** and **password**
-- After submit login form the token will we generated statically and saved in `localStorage`.
-- Once user have loged in than it will be redirect to **Product list** and if token is in `localStorage` than it will not be able to come to login page 
+- When user submit **login** form,  you have to retrieve **email** and **password** from your reducer which you saved during **Sign up**.
+- After submit login form the token will we generated statically and saved in `localStorage` and `reducer`.
+- Once user have loged in than it will be redirect to the **Product list** and if token is in `localStorage` than it will not be able to come to login page 
 
 **Note:** With the help of static token you can manage public and private routes.
-
 
 ### "Product List" Page
 
