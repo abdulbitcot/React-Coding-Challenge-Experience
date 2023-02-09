@@ -3,7 +3,7 @@
         "id": "1",
         "productName": "Blue Jacket",
         "productImage": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Dress_Shirt_Fitting_on_dummy_Front.JPG",
-        "category": "cloths",
+        "category": "clothe",
         "status": "In stock",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galle",
         "variation": [
@@ -52,7 +52,7 @@
     {
         "id": "3",
         "productName":"Gray Hoodies",
-        "category":"cloths",
+        "category":"clothe",
         "status":"In stock",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galle",
         "variation": [
@@ -79,7 +79,7 @@
     {
         "id":"4",
         "productName":"Analog strip Watch",
-        "category":"accessories",
+        "category":"device",
         "status":"In stock",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galle",
         "variation": [
@@ -106,7 +106,7 @@
     {
         "id":"5",
         "productName":"Women Shirt",
-        "category":"cloths",
+        "category":"clothe",
         "status":"Limited stock",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galle",
         "variation": [
@@ -133,7 +133,7 @@
     {
         "id":"6",
         "productName":"fan",
-        "category":"electronics",
+        "category":"device",
         "status":"out of stock",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galle",
         "variation": [
@@ -160,7 +160,7 @@
     {
         "id":"7",
         "productName":"Denim Jeans",
-        "category":"cloths",
+        "category":"clothe",
         "status":"In stock",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galle",
         "variation": [
@@ -187,7 +187,7 @@
     {
         "id":"8",
         "productName":"Headphone",
-        "category":"electronics",
+        "category":"device",
         "status":"In stock",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galle",
         "variation": [
@@ -214,7 +214,7 @@
     {
         "id":"9",
         "productName":"laptop",
-        "category":"electronics",
+        "category":"device",
         "status":"Limited stock",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galle",
         "variation": [
@@ -241,7 +241,7 @@
     {
         "id":"10",
         "productName":"Raybon Google",
-        "category":"accessories",
+        "category":"device",
         "status":"In stock",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galle",
         "variation": [
@@ -268,7 +268,7 @@
     {
         "id":"11",
         "productName":"iphone 14",
-        "category":"electronics",
+        "category":"device",
         "status":"In stock",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galle",
         "variation": [
@@ -295,7 +295,7 @@
     {
         "id":"12",
         "productName":"Refrigerator",
-        "category":"electronics",
+        "category":"device",
         "status":"In stock",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galle",
         "variation": [
@@ -322,7 +322,7 @@
     {
         "id":"13",
         "productName":"Cammera",
-        "category":"electronics",
+        "category":"device",
         "status":"In stock",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galle",
         "variation": [
@@ -349,7 +349,7 @@
     {
         "id":"14",
         "productName":"Cycle",
-        "category":"accessories",
+        "category":"device",
         "status":"In stock",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galle",
         "variation": [
@@ -376,7 +376,7 @@
     {
         "id":"15",
         "productName":"Mens Track Pants",
-        "category":"cloths",
+        "category":"clothe",
         "status":"In stock",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galle",
         "variation": [
@@ -403,7 +403,7 @@
     {
         "id":"16",
         "productName":"Cricket Bat",
-        "category":"accessories",
+        "category":"device",
         "status":"In stock",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galle",
         "variation": [
@@ -430,7 +430,7 @@
     {
         "id":"17",
         "productName":"Ear Buds",
-        "category":"electronics",
+        "category":"device",
         "status":"In stock",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galle",
         "variation": [
@@ -456,26 +456,26 @@
     },
     {
         "id":"18",
-        "productName":"Guitar",
-        "category":"instrument",
+        "productName":"sports shoes",
+        "category":"shoes",
         "status":"In stock",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galle",
         "variation": [
             {
                 "variant": "black",
-                "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-M1rQLo-NRXL3uMi2SDnT-ZGdYkJmUiAgXw&usqp=CAU",
+                "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaJE5Wor7ilo6-aFCGmmtdXm0pB0cSFXXWLg&usqp=CAU",
                 "price": "30",
                 "stock": "50"
             },
             {
                 "variant": "white",
-                "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-M1rQLo-NRXL3uMi2SDnT-ZGdYkJmUiAgXw&usqp=CAU",
+                "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaJE5Wor7ilo6-aFCGmmtdXm0pB0cSFXXWLg&usqp=CAU",
                 "price": "30",
                 "stock": "50"
             },
             {
                 "variant": "green",
-                "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-M1rQLo-NRXL3uMi2SDnT-ZGdYkJmUiAgXw&usqp=CAU",
+                "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaJE5Wor7ilo6-aFCGmmtdXm0pB0cSFXXWLg&usqp=CAU",
                 "price": "30",
                 "stock": "51"
             }
@@ -484,7 +484,7 @@
     {
         "id":"19",
         "productName":"Balzer",
-        "category":"cloths",
+        "category":"clothe",
         "status":"In stock",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galle",
         "variation": [
@@ -511,7 +511,7 @@
     {
         "id":"20",
         "productName":"Computer",
-        "category":"electronics",
+        "category":"device",
         "status":"In stock",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galle",
         "variation": [
@@ -537,26 +537,26 @@
     },
     {
         "id":"21",
-        "productName":"Maggiee",
-        "category":"Grocery",
+        "productName":"Leather bag",
+        "category":"bags",
         "status":"In stock",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galle",
         "variation": [
             {
                 "variant": "black",
-                "productImage":"https://rukminim1.flixcart.com/image/416/416/ki3gknk0/noodle/z/l/u/840-maggie-masala-noodles-12-instant-noodles-nestle-original-imafxym3qfnvhksa.jpeg?q=70",
+                "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiGEB9AuLN3K2SG6n6Y2kijYJ2Hz2bldwcJg&usqp=CAU",
                 "price": "30",
                 "stock": "50"
             },
             {
                 "variant": "white",
-                "productImage":"https://rukminim1.flixcart.com/image/416/416/ki3gknk0/noodle/z/l/u/840-maggie-masala-noodles-12-instant-noodles-nestle-original-imafxym3qfnvhksa.jpeg?q=70",
+                "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiGEB9AuLN3K2SG6n6Y2kijYJ2Hz2bldwcJg&usqp=CAU",
                 "price": "30",
                 "stock": "50"
             },
             {
                 "variant": "green",
-                "productImage":"https://rukminim1.flixcart.com/image/416/416/ki3gknk0/noodle/z/l/u/840-maggie-masala-noodles-12-instant-noodles-nestle-original-imafxym3qfnvhksa.jpeg?q=70",
+                "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiGEB9AuLN3K2SG6n6Y2kijYJ2Hz2bldwcJg&usqp=CAU",
                 "price": "30",
                 "stock": "51"
             }
@@ -565,7 +565,7 @@
     {
         "id":"22",
         "productName":"Mens shots",
-        "category":"cloths",
+        "category":"clothe",
         "status":"In stock",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galle",
         "variation": [
@@ -592,7 +592,7 @@
     {
         "id":"23",
         "productName":"samsung AC",
-        "category":"electronics",
+        "category":"device",
         "status":"out of stock",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galle",
         "variation": [
@@ -618,26 +618,26 @@
     },
     {
         "id":"24",
-        "productName":"pen",
-        "category":"stationary",
+        "productName":"Men bags",
+        "category":"bags",
         "status": "Limited stock",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galle",
         "variation": [
             {
                 "variant": "black",
-                "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQMg33iLtdKKMDfgleaz_4moJi3mN1Akyy02i6_tC2y9teTP4DPyzdEuUAiH9xMfDA5Rw&usqp=CAU",
+                "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSov1ziLAkvVEOMWpsoxvodAFoieAsrDNZPGw&usqp=CAU",
                 "price": "30",
                 "stock": "5"
             },
             {
                 "variant": "white",
-                "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQMg33iLtdKKMDfgleaz_4moJi3mN1Akyy02i6_tC2y9teTP4DPyzdEuUAiH9xMfDA5Rw&usqp=CAU",
+                "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSov1ziLAkvVEOMWpsoxvodAFoieAsrDNZPGw&usqp=CAU",
                 "price": "30",
                 "stock": "2"
             },
             {
                 "variant": "green",
-                "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQMg33iLtdKKMDfgleaz_4moJi3mN1Akyy02i6_tC2y9teTP4DPyzdEuUAiH9xMfDA5Rw&usqp=CAU",
+                "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSov1ziLAkvVEOMWpsoxvodAFoieAsrDNZPGw&usqp=CAU",
                 "price": "30",
                 "stock": "1"
             }
@@ -645,26 +645,26 @@
     },
     {
         "id":"25",
-        "productName":"Coffee",
-        "category":"food product",
+        "productName":"women sports shoes",
+        "category":"shoes",
         "status":"In stock",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galle",
         "variation": [
             {
                 "variant": "black",
-                "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOKUQ5tlbIneiudCuZKHbRWSA9f5rNW4fhlQ&usqp=CAU",
+                "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfAopJuCDYZM-Djo3zTi1p68ZrXHSgqCC8XQ&usqp=CAU",
                 "price": "30",
                 "stock": "5"
             },
             {
                 "variant": "white",
-                "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOKUQ5tlbIneiudCuZKHbRWSA9f5rNW4fhlQ&usqp=CAU",
+                "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfAopJuCDYZM-Djo3zTi1p68ZrXHSgqCC8XQ&usqp=CAU",
                 "price": "30",
                 "stock": "2"
             },
             {
                 "variant": "green",
-                "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOKUQ5tlbIneiudCuZKHbRWSA9f5rNW4fhlQ&usqp=CAU",
+                "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfAopJuCDYZM-Djo3zTi1p68ZrXHSgqCC8XQ&usqp=CAU",
                 "price": "30",
                 "stock": "1"
             }
@@ -673,7 +673,7 @@
     {
         "id":"26",
         "productName":"Water Heater",
-        "category":"electronics",
+        "category":"device",
         "status":"In stock",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galle",
         "variation": [
@@ -699,26 +699,26 @@
     },
     {
         "id":"27",
-        "productName":"Office chair",
-        "category":"furniture",
+        "productName":"Office shoes",
+        "category":"shoes",
         "status":"In stock",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galle",
         "variation": [
             {
                 "variant": "black",
-                "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmsu0QNjSs7ZUVU9yX9d74--GBZQpvwrjoKN_9rgaCWXmKWx_t0SonkY6vq5EfhuxHCCk&usqp=CAU",
+                "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnL6E-aOQqM8YZZruF9e068VU9ZY9Z-yXdbA&usqp=CAU",
                 "price": "30",
                 "stock": "5"
             },
             {
                 "variant": "white",
-                "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmsu0QNjSs7ZUVU9yX9d74--GBZQpvwrjoKN_9rgaCWXmKWx_t0SonkY6vq5EfhuxHCCk&usqp=CAU",
+                "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnL6E-aOQqM8YZZruF9e068VU9ZY9Z-yXdbA&usqp=CAU",
                 "price": "30",
                 "stock": "2"
             },
             {
                 "variant": "green",
-                "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmsu0QNjSs7ZUVU9yX9d74--GBZQpvwrjoKN_9rgaCWXmKWx_t0SonkY6vq5EfhuxHCCk&usqp=CAU",
+                "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnL6E-aOQqM8YZZruF9e068VU9ZY9Z-yXdbA&usqp=CAU",
                 "price": "30",
                 "stock": "1"
             }
@@ -727,7 +727,7 @@
     {
         "id":"28",
         "productName":"One plus 7",
-        "category":"electronics",
+        "category":"device",
         "status":"In stock",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galle",
         "variation": [
@@ -754,7 +754,7 @@
     {
         "id":"29",
         "productName":"Samsung Tab",
-        "category":"electronics",
+        "category":"device",
         "status":"In stock",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galle",
         "variation": [
@@ -780,26 +780,26 @@
     },
     {
         "id":"30",
-        "productName":"Dairy milk",
-        "category":"chocalates",
+        "productName":"ladies watch",
+        "category":"watches",
         "status":"In stock",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galle",
         "variation": [
             {
                 "variant": "black",
-                "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoJuuKlR_mM2jbsTciQ9qx4c19IV7b9HUPkQ&usqp=CAU",
+                "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1kel2BClmugAZXaiEhsdQDy0Tvxv3qfJPPg&usqp=CAU",
                 "price": "30",
                 "stock": "5"
             },
             {
                 "variant": "white",
-                "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoJuuKlR_mM2jbsTciQ9qx4c19IV7b9HUPkQ&usqp=CAU",
+                "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1kel2BClmugAZXaiEhsdQDy0Tvxv3qfJPPg&usqp=CAU",
                 "price": "30",
                 "stock": "2"
             },
             {
                 "variant": "green",
-                "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoJuuKlR_mM2jbsTciQ9qx4c19IV7b9HUPkQ&usqp=CAU",
+                "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1kel2BClmugAZXaiEhsdQDy0Tvxv3qfJPPg&usqp=CAU",
                 "price": "30",
                 "stock": "1"
             }
@@ -808,7 +808,7 @@
     {
         "id":"31",
         "productName":"saree",
-        "category":"cloths",
+        "category":"clothe",
         "status":"Limited stock",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galle",
         "variation": [
