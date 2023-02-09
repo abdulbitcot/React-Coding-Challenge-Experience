@@ -62,7 +62,7 @@ For this page you will need to fetch this JSON [sample.json](https://raw.githubu
 - You can display product **image** in the `variation` array key from the `0` index
 - You can display product **price** in the `variation` array key from the `0` index
 - You can display product **stock** in the `variation` array key from the `0` index
-- Add Searching functionality by **Product name** or **Category** Locally
+- Add Searching functionality by **Product name** or **Category** Locally and if there is no record match so The text **No record** should be displayed.
 - There is a Delete Button in the list and on `Click` of the delete button, The Product should be delete.
 - There is an Edit Button in the list and on `Click` of the Edit button. The Product should be redirecte to the Edit page and form will be filled by selected  product data.
 - There is a Button of **Add Product** and When **Click** the page will be redirecte to the **Add Product** page.
