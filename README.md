@@ -82,3 +82,17 @@ For this page you will need to fetch this JSON [sample.json](https://raw.githubu
 - When Product will be redirected to the **Edit Page** from the product list than **form** will be filled by selected product data. 
 - User can Edit Product and After Submitted, it will be reflected in the product list.
 - Also maintain the validation in edit form.
+
+## Other Notes
+
+- It is important you follow good programing practices, clean code, good logic with proper comments, naming conventions.
+- Write as many functions you require, you must focus on code reusability and avoid repetition of code.
+
+## Share Your Test
+
+- Create a public git repository on Github
+- Repositry name should be your name-bitcot and push code.
+- Do not include dependency folder like node_module.
+- Once finished kindly submit your Github account repository URL.
+- Do not include any Zip file in Email
+- Read full instruction before submitting the task. 
